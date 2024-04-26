@@ -2,3 +2,5 @@ Welcome to git
 --------------
 
 line 1: Lets start...
+
+User 1 added
